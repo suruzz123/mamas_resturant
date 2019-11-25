@@ -19,4 +19,4 @@ php artisan config:cache
 or
 
 https://myaccount.google.com/lesssecureapps
-hitonit7@gmail.com
+example@gmail.com
