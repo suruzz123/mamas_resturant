@@ -27,4 +27,4 @@ or
 
 https://myaccount.google.com/lesssecureapps
 
-example@gmail.com
+hitonit_example@gmail.com
